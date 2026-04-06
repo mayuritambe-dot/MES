@@ -1,0 +1,60 @@
+- id: REC-3906-9366
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Lathe-02
+  output_quantity: 91
+  operator_id: OP-63
+  status: COMPLETED
+- id: REC-3906-7847
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Press-01
+  output_quantity: 55
+  operator_id: OP-30
+  status: COMPLETED
+- id: REC-3906-1278
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Press-01
+  output_quantity: 47
+  operator_id: OP-92
+  status: COMPLETED
+- id: REC-3906-1199
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Drill-04
+  output_quantity: 95
+  operator_id: OP-37
+  status: COMPLETED
+- id: REC-3906-7290
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Lathe-02
+  output_quantity: 9
+  operator_id: OP-87
+  status: COMPLETED
+- id: REC-3906-6662
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Drill-04
+  output_quantity: 45
+  operator_id: OP-65
+  status: COMPLETED
+- id: REC-3906-4262
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Drill-04
+  output_quantity: 74
+  operator_id: OP-63
+  status: COMPLETED
+- id: REC-3906-1507
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Lathe-02
+  output_quantity: 64
+  operator_id: OP-83
+  status: COMPLETED
+- id: REC-3906-7063
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Press-01
+  output_quantity: 86
+  operator_id: OP-67
+  status: COMPLETED
+- id: REC-3906-9643
+  timestamp: '2026-04-06 12:39:06'
+  machine_name: Lathe-02
+  output_quantity: 74
+  operator_id: OP-35
+  status: COMPLETED
